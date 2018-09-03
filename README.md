@@ -5,3 +5,5 @@ This is test file created to understand the GIT lifecycle steps.
 Thanks to GIT team in explaining this in a more user-friendly way.
 
 Subsequent change 1.
+
+Subsequent change 2 in 2nd branch.
